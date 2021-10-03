@@ -39,7 +39,7 @@ action_wheel.SLOT_5.setItem(icon)
 action_wheel.SLOT_5.setTitle("Prisioner Alex")
 action_wheel.SLOT_5.setFunction(function() network.ping("setOutfit",4) end)
 
-icon = item_stack.createItem("minecraft:player_head",'{SkullOwner:{Id:[I;-28714317,1781023781,-1477141932,1903925117],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFkYzM3NzgxNjM4OWMzYzg3YzY1ZGNhY2FjMWQ4Zjg4MGI1NDMzNGQ3YzIzZWEyMmYwOTllMmM0ZWFiMWZmOSJ9fX0="}]}}}')
+icon = item_stack.createItem("minecraft:player_head",'{SkullOwner:{Id:[I;-1350096761,2093369653,-1699323194,1115946264],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2Q4NjI0MmIwZDk3ZWNlOTk5NDY2MGYzOTc0ZDcyZGY3Yjg4N2Y2MzBhNDUzMGRhZGM1YjFhYjdjMjEzNGFlYyJ9fX0="}]}}}')
 action_wheel.SLOT_6.setItem(icon)
 action_wheel.SLOT_6.setTitle("Swedish Alex")
 action_wheel.SLOT_6.setFunction(function() network.ping("setOutfit",5) end)
