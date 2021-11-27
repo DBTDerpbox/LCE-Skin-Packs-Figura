@@ -1,4 +1,4 @@
-# MCLE Skin Packs Figura
+# Minecraft LCE Skin Packs for Figura
 All of the skin packs from Minecraft Legacy Edition ported to [Figura](https://modrinth.com/mod/figura)
 
 ## Installation
@@ -7,7 +7,7 @@ You will need to install [FabricMC](https://fabricmc.net/use/), [Fabric API](htt
 
 Once you have done that, log into a world, pause the game and open the figura menu (Blue Triangle) and select `Open Models Folder`
 
-You may then copy/move the skins you would like to use into this folder. **Warning!** Figura currently does not have support for multiple folders, so make sure you put the skin folders in the root of the `model_files` folder, or else they wont load!
+You may then copy/move the skins you would like to use into this folder. ~~**Warning!** Figura currently does not have support for multiple folders, so make sure you put the skin folders in the root of the `model_files` folder, or else they wont load!~~ As of Figura 0.7 release canidate 4 folders are now fully supported.
 
 I highly reconmend going to the `Trust Menu` and enabling `Vanilla Avatar Changes` for untrusted users for some models from this pack to render properly if another player is using them!
 
