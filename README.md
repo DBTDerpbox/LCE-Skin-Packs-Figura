@@ -1,4 +1,4 @@
-# MCLE Skin Packs Figura
+# Minecraft LCE Skin Packs for Figura
 All of the skin packs from Minecraft Legacy Edition ported to [Figura](https://modrinth.com/mod/figura)
 
 ## Installation
