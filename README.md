@@ -3,7 +3,7 @@ All of the skin packs from Minecraft Legacy Edition ported to [Figura](https://m
 
 ## Installation
 
-You will need to install [FabricMC](https://fabricmc.net/use/), [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files) and [Figura](https://modrinth.com/mod/figura) to use any custom models the skins may have.
+You will need to install [FabricMC](https://fabricmc.net/use/), [Fabric API](https://modrinth.com/mod/fabric-api) and [Figura](https://modrinth.com/mod/figura) to use any custom models the skins may have.
 
 Once you have done that, log into a world, pause the game and open the figura menu (Blue Triangle) and select `Open Models Folder`
 
