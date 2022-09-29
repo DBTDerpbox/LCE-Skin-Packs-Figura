@@ -1,5 +1,8 @@
 # Minecraft LCE Skin Packs for Figura
-All of the skin packs from Minecraft Legacy Edition ported to [Figura](https://modrinth.com/mod/figura)
+Some of the skin packs from Minecraft Legacy Edition ported to [Figura](https://modrinth.com/mod/figura)
+
+# Project is currently on hiatus
+This project is currently on hiatus, and it will be a while before i get around to finishing it as i'm quite busy with many things, but feel free to fork it and add more skins!
 
 ## Installation
 
